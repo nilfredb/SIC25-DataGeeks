@@ -1,11 +1,11 @@
-# 🌍 GDP vs Unemployment Analysis (1991–2023)
+# - GDP vs Unemployment Analysis (1991–2023)
 
 Este proyecto analiza la **relación entre el PIB per cápita y la tasa de desempleo** a nivel mundial entre los años **1991 y 2023**, utilizando datos provenientes del **Banco Mundial (World Bank)**.  
 El objetivo es observar tendencias económicas, correlaciones y diferencias entre países a lo largo del tiempo mediante herramientas de análisis de datos y visualización interactiva.
 
 ---
 
-## 📊 Descripción general
+## - Descripción general
 
 El análisis se centra en responder la pregunta:
 > **¿Existe una relación estadísticamente significativa entre el crecimiento económico (PIB per cápita) y la tasa de desempleo?**
@@ -18,7 +18,7 @@ Para ello se realiza:
 
 ---
 
-## 🧠 Tecnologías utilizadas
+## - Tecnologías utilizadas
 
 | Tipo de tecnología | Herramienta | Descripción |
 |--------------------|-------------|-------------|
@@ -33,7 +33,7 @@ Para ello se realiza:
 
 ---
 
-## ⚙️ Flujo de trabajo (ETL)
+## - Flujo de trabajo (ETL)
 
 1. **Extracción:**  
    Se importan los archivos CSV descargados del Banco Mundial.
@@ -49,7 +49,7 @@ Para ello se realiza:
 
 ---
 
-## 📈 Ejemplo de análisis
+## - Ejemplo de análisis
 
 - Cálculo de correlación entre PIB per cápita y desempleo:  
   ```python
@@ -67,7 +67,7 @@ Para ello se realiza:
 
 ---
 
-## 🚀 Ejecución del proyecto
+## - Ejecución del proyecto
 
 1. Clonar el repositorio:
    ```bash
@@ -87,7 +87,7 @@ Para ello se realiza:
 
 ---
 
-## 🧾 Resultados esperados
+## - Resultados esperados
 
 - Visualización clara de la relación entre desarrollo económico y desempleo.
 - Cálculo de correlaciones por país y año.
@@ -96,7 +96,7 @@ Para ello se realiza:
 
 ---
 
-## 📚 Créditos
+## - Créditos
 
 Proyecto desarrollado por **DataGeeks** para el Samsung Innovation Campus 2025  
 📍 República Dominicana  
