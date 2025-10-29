@@ -22,7 +22,7 @@ Para ello se realiza:
 
 | Tipo de tecnología | Herramienta | Descripción |
 |--------------------|-------------|-------------|
-| **Lenguaje de programación** | 🐍 **Python** | Base del proyecto y análisis de datos. |
+| **Lenguaje de programación** | **Python** | Base del proyecto y análisis de datos. |
 | **Librerías principales** | **pandas**, **NumPy** | Limpieza, manipulación y cálculo estadístico. |
 | **Visualización** | **Matplotlib** | Gráficos de correlación y evolución temporal. |
 | **Dashboard interactivo** | **Streamlit** | Interfaz web para explorar los resultados. |
